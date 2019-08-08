@@ -1,0 +1,169 @@
+"CommonName","IslandGroup","DemClass","value"
+"Amsterdam Albatross","Amsterdam and St Paul","alpha",52
+"Antipodean Albatross","Antipodes Islands","alpha",12572
+"Antipodean Albatross","Auckland Islands","alpha",10530
+"Atlantic Yellow-nosed Albatross","Gough","alpha",10600
+"Black Petrel","New Zealand (Great Barrier Island)","alpha",3300
+"Black-browed Albatross","Falkland Islands (Islas Malvinas)","alpha",798832
+"Black-browed Albatross","South Georgia (Islas Georgias del Sur)","alpha",148592
+"Black-browed Albatross","Kerguelen","alpha",6430
+"Buller's Albatross","The Snares","alpha",17426
+"Chatham Albatross","Chatham Island","alpha",9150
+"Grey Petrel","Antipodes Islands","alpha",106000
+"Grey-headed Albatross","South Georgia (Islas Georgias del Sur)","alpha",95348
+"Light-mantled Albatross","Prince Edward Islands","alpha",1314
+"Northern Giant Petrel","Prince Edward Islands","alpha",928
+"Northern Royal Albatross","Chatham Island","alpha",11600
+"Salvin's Albatross","The Snares","alpha",2390
+"Sooty Albatross","Prince Edward Islands","alpha",4986
+"Sooty Albatross","Tristan da Cunha","alpha",16916
+"Southern Giant Petrel","Prince Edward Islands","alpha",4686
+"Spectacled Petrel","Tristan da Cunha","alpha",20000
+"Tristan Albatross","Gough","alpha",3526
+"Wandering Albatross","South Georgia (Islas Georgias del Sur)","alpha",2840
+"Wandering Albatross","Crozet","alpha",3716
+"Wandering Albatross","Kerguelen","alpha",2374
+"Westland Petrel","New Zealand","alpha",8000
+"White-capped Albatross","Auckland Islands","alpha",194178
+"White-chinned Petrel","South Georgia (Islas Georgias del Sur)","alpha",1546300
+"White-chinned Petrel","Antipodes Islands","alpha",117450
+"Amsterdam Albatross","Amsterdam and St Paul","beta",31.72
+"Antipodean Albatross","Antipodes Islands","beta",7769.496
+"Antipodean Albatross","Auckland Islands","beta",3190.59
+"Atlantic Yellow-nosed Albatross","Gough","beta",6784
+"Black Petrel","New Zealand (Great Barrier Island)","beta",2511.3
+"Black-browed Albatross","Falkland Islands (Islas Malvinas)","beta",450541.248
+"Black-browed Albatross","South Georgia (Islas Georgias del Sur)","beta",44577.6
+"Black-browed Albatross","Kerguelen","beta",4661.75
+"Buller's Albatross","The Snares","beta",12668.702
+"Chatham Albatross","Chatham Island","beta",5261.25
+"Grey Petrel","Antipodes Islands","beta",48548
+"Grey-headed Albatross","South Georgia (Islas Georgias del Sur)","beta",34802.02
+"Light-mantled Albatross","Prince Edward Islands","beta",407.34
+"Northern Giant Petrel","Prince Edward Islands","beta",687.648
+"Northern Royal Albatross","Chatham Island","beta",3712
+"Salvin's Albatross","The Snares","beta",1374.25
+"Sooty Albatross","Prince Edward Islands","beta",2692.44
+"Sooty Albatross","Tristan da Cunha","beta",11063.064
+"Southern Giant Petrel","Prince Edward Islands","beta",2160.246
+"Spectacled Petrel","Tristan da Cunha","beta",10280
+"Tristan Albatross","Gough","beta",1149.476
+"Wandering Albatross","South Georgia (Islas Georgias del Sur)","beta",1902.8
+"Wandering Albatross","Crozet","beta",2734.976
+"Wandering Albatross","Kerguelen","beta",1747.264
+"Westland Petrel","New Zealand","beta",4960
+"White-capped Albatross","Auckland Islands","beta",111652.35
+"White-chinned Petrel","South Georgia (Islas Georgias del Sur)","beta",686557.2
+"White-chinned Petrel","Antipodes Islands","beta",60369.3
+"Amsterdam Albatross","Amsterdam and St Paul","gamma",20.28
+"Antipodean Albatross","Antipodes Islands","gamma",4802.504
+"Antipodean Albatross","Auckland Islands","gamma",7339.41
+"Atlantic Yellow-nosed Albatross","Gough","gamma",3816
+"Black Petrel","New Zealand (Great Barrier Island)","gamma",788.7
+"Black-browed Albatross","Falkland Islands (Islas Malvinas)","gamma",348290.752
+"Black-browed Albatross","South Georgia (Islas Georgias del Sur)","gamma",104014.4
+"Black-browed Albatross","Kerguelen","gamma",1768.25
+"Buller's Albatross","The Snares","gamma",4757.298
+"Chatham Albatross","Chatham Island","gamma",3888.75
+"Grey Petrel","Antipodes Islands","gamma",57452
+"Grey-headed Albatross","South Georgia (Islas Georgias del Sur)","gamma",60545.98
+"Light-mantled Albatross","Prince Edward Islands","gamma",906.66
+"Northern Giant Petrel","Prince Edward Islands","gamma",240.352
+"Northern Royal Albatross","Chatham Island","gamma",7888
+"Salvin's Albatross","The Snares","gamma",1015.75
+"Sooty Albatross","Prince Edward Islands","gamma",2293.56
+"Sooty Albatross","Tristan da Cunha","gamma",5852.936
+"Southern Giant Petrel","Prince Edward Islands","gamma",2525.754
+"Spectacled Petrel","Tristan da Cunha","gamma",9720
+"Tristan Albatross","Gough","gamma",2376.524
+"Wandering Albatross","South Georgia (Islas Georgias del Sur)","gamma",937.2
+"Wandering Albatross","Crozet","gamma",981.024
+"Wandering Albatross","Kerguelen","gamma",626.736
+"Westland Petrel","New Zealand","gamma",3040
+"White-capped Albatross","Auckland Islands","gamma",82525.65
+"White-chinned Petrel","South Georgia (Islas Georgias del Sur)","gamma",859742.8
+"White-chinned Petrel","Antipodes Islands","gamma",57080.7
+"Amsterdam Albatross","Amsterdam and St Paul","delta",38.6149880110053
+"Antipodean Albatross","Antipodes Islands","delta",9470.21492166385
+"Antipodean Albatross","Auckland Islands","delta",4330.79677915134
+"Atlantic Yellow-nosed Albatross","Gough","delta",8763.5683304263
+"Black Petrel","New Zealand (Great Barrier Island)","delta",2787.27384422572
+"Black-browed Albatross","Falkland Islands (Islas Malvinas)","delta",688466.784859439
+"Black-browed Albatross","South Georgia (Islas Georgias del Sur)","delta",83289.2334602937
+"Black-browed Albatross","Kerguelen","delta",6042.90149798268
+"Buller's Albatross","The Snares","delta",15524.4106658613
+"Chatham Albatross","Chatham Island","delta",6597.70175428739
+"Grey Petrel","Antipodes Islands","delta",62271.5485675579
+"Grey-headed Albatross","South Georgia (Islas Georgias del Sur)","delta",50400.5070703322
+"Light-mantled Albatross","Prince Edward Islands","delta",583.363828972039
+"Northern Giant Petrel","Prince Edward Islands","delta",829.741274413575
+"Northern Royal Albatross","Chatham Island","delta",5124.79924860663
+"Salvin's Albatross","The Snares","delta",1801.68827371778
+"Sooty Albatross","Prince Edward Islands","delta",3335.62421494421
+"Sooty Albatross","Tristan da Cunha","delta",13178.2755338864
+"Southern Giant Petrel","Prince Edward Islands","delta",3031.03422435787
+"Spectacled Petrel","Tristan da Cunha","delta",13742.6807904914
+"Tristan Albatross","Gough","delta",1693.99766307227
+"Wandering Albatross","South Georgia (Islas Georgias del Sur)","delta",2289.73924927579
+"Wandering Albatross","Crozet","delta",3292.44757099011
+"Wandering Albatross","Kerguelen","delta",2103.40972377033
+"Westland Petrel","New Zealand","delta",6681.89353951034
+"White-capped Albatross","Auckland Islands","delta",146380.010717143
+"White-chinned Petrel","South Georgia (Islas Georgias del Sur)","delta",958386.125125353
+"White-chinned Petrel","Antipodes Islands","delta",80703.8929421608
+"Amsterdam Albatross","Amsterdam and St Paul","zeta",14.9673802778836
+"Antipodean Albatross","Antipodes Islands","zeta",3630.33395007534
+"Antipodean Albatross","Auckland Islands","zeta",1768.63927698331
+"Atlantic Yellow-nosed Albatross","Gough","zeta",3330.74167327228
+"Black Petrel","New Zealand (Great Barrier Island)","zeta",1351.2954031268
+"Black-browed Albatross","Falkland Islands (Islas Malvinas)","zeta",182767.6228343
+"Black-browed Albatross","South Georgia (Islas Georgias del Sur)","zeta",22624.4375033068
+"Black-browed Albatross","Kerguelen","zeta",2028.24774162605
+"Buller's Albatross","The Snares","zeta",6100.21728705236
+"Chatham Albatross","Chatham Island","zeta",2889.57758052928
+"Grey Petrel","Antipodes Islands","zeta",29359.5218213925
+"Grey-headed Albatross","South Georgia (Islas Georgias del Sur)","zeta",15681.6731018241
+"Light-mantled Albatross","Prince Edward Islands","zeta",205.765498648111
+"Northern Giant Petrel","Prince Edward Islands","zeta",334.215341623273
+"Northern Royal Albatross","Chatham Island","zeta",1959.44867149989
+"Salvin's Albatross","The Snares","zeta",713.705676212341
+"Sooty Albatross","Prince Edward Islands","zeta",1314.29996200627
+"Sooty Albatross","Tristan da Cunha","zeta",5232.49014606971
+"Southern Giant Petrel","Prince Edward Islands","zeta",1183.42511624054
+"Spectacled Petrel","Tristan da Cunha","zeta",5591.36213539684
+"Tristan Albatross","Gough","zeta",535.497683191335
+"Wandering Albatross","South Georgia (Islas Georgias del Sur)","zeta",869.967101841023
+"Wandering Albatross","Crozet","zeta",1175.71814147861
+"Wandering Albatross","Kerguelen","zeta",751.118102225572
+"Westland Petrel","New Zealand","zeta",1740.01806211619
+"White-capped Albatross","Auckland Islands","zeta",57985.7492868452
+"White-chinned Petrel","South Georgia (Islas Georgias del Sur)","zeta",386327.351848035
+"White-chinned Petrel","Antipodes Islands","zeta",32835.2741401179
+"Amsterdam Albatross","Amsterdam and St Paul","theta",63.2019945339927
+"Antipodean Albatross","Antipodes Islands","theta",14990.1170974911
+"Antipodean Albatross","Auckland Islands","theta",11589.7409873323
+"Atlantic Yellow-nosed Albatross","Gough","theta",15863.9852365272
+"Black Petrel","New Zealand (Great Barrier Island)","theta",7483.62255197414
+"Black-browed Albatross","Falkland Islands (Islas Malvinas)","theta",600771.833151886
+"Black-browed Albatross","South Georgia (Islas Georgias del Sur)","theta",141519.061546907
+"Black-browed Albatross","Kerguelen","theta",7287.19272611963
+"Buller's Albatross","The Snares","theta",27093.134189263
+"Chatham Albatross","Chatham Island","theta",17794.0878441889
+"Grey Petrel","Antipodes Islands","theta",232157.489194713
+"Grey-headed Albatross","South Georgia (Islas Georgias del Sur)","theta",64260.230206596
+"Light-mantled Albatross","Prince Edward Islands","theta",1102.97272145882
+"Northern Giant Petrel","Prince Edward Islands","theta",1507.08171716106
+"Northern Royal Albatross","Chatham Island","theta",11481.6330130664
+"Salvin's Albatross","The Snares","theta",3918.36681415399
+"Sooty Albatross","Prince Edward Islands","theta",6058.23016741235
+"Sooty Albatross","Tristan da Cunha","theta",22010.1162905675
+"Southern Giant Petrel","Prince Edward Islands","theta",7660.63443440592
+"Spectacled Petrel","Tristan da Cunha","theta",34695.6835366032
+"Tristan Albatross","Gough","theta",2394.97976047165
+"Wandering Albatross","South Georgia (Islas Georgias del Sur)","theta",3396.38615863332
+"Wandering Albatross","Crozet","theta",3985.14897509613
+"Wandering Albatross","Kerguelen","theta",2545.94824189403
+"Westland Petrel","New Zealand","theta",3925.29266492691
+"White-capped Albatross","Auckland Islands","theta",318351.728551797
+"White-chinned Petrel","South Georgia (Islas Georgias del Sur)","theta",2665822.46240867
+"White-chinned Petrel","Antipodes Islands","theta",203750.401568702
