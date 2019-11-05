@@ -1,29 +1,37 @@
-CommonName,IslandGroup,PopEstimate,PopUnits,BreedingFrequency,AgeFirstBreeding,BreedingSuccess,AnnualJuveSurvProb,AnnualAdultSurvProb
-Amsterdam Albatross,Amsterdam and St Paul,26,breeding pairs,0.5,9,0.61,0.936,0.971
-Antipodean Albatross,Antipodes Islands,6286,breeding pairs,0.5,7,0.618,0.904,0.948
-Antipodean Albatross,Auckland Islands,5265,breeding pairs,0.5,8,0.303,0.917,0.883
-Atlantic Yellow-nosed Albatross,Gough,5300,breeding pairs,1,9.7,0.64,0.88,0.92
-Black Petrel,New Zealand (Great Barrier Island),1650,breeding pairs,1,6,0.761,0.923,0.779
-Black-browed Albatross,Falkland Islands (Islas Malvinas),399416,breeding pairs,1,10,0.564,0.653,0.942
-Black-browed Albatross,South Georgia (Islas Georgias del Sur),74296,breeding pairs,1,12.13,0.3,0.653,0.875
-Black-browed Albatross,Kerguelen,3215,breeding pairs,1,10,0.725,0.776,0.918
-Buller's Albatross,The Snares,8713,breeding pairs,1,10.5,0.727,0.91,0.93
-Chatham Albatross,Chatham Island,4575,breeding pairs,1,7,0.575,0.951,0.868
-Grey Petrel,Antipodes Islands,53000,breeding pairs,1,6,0.458,0.923,0.779
-Grey-headed Albatross,South Georgia (Islas Georgias del Sur),47674,breeding pairs,0.5,14.22,0.365,0.764,0.952
-Light-mantled Albatross,Prince Edward Islands,657,breeding pairs,0.5,12,0.31,0.883,0.973
-Northern Giant Petrel,Prince Edward Islands,464,breeding pairs,1,10,0.741,0.88,0.88
-Northern Royal Albatross,Chatham Island,5800,breeding pairs,0.5,8,0.32,0.929,0.952
-Salvin's Albatross,The Snares,1195,breeding pairs,1,7,0.575,0.951,0.951
-Sooty Albatross,Prince Edward Islands,2493,breeding pairs,0.5,12,0.54,0.883,0.898
-Sooty Albatross,Tristan da Cunha,8458,breeding pairs,0.5,12,0.654,0.883,0.898
-Southern Giant Petrel,Prince Edward Islands,2343,breeding pairs,1,8,0.461,0.84,0.84
-Spectacled Petrel,Tristan da Cunha,10000,breeding pairs,1,6,0.514,0.923,0.895
-Tristan Albatross,Gough,1763,breeding pairs,0.5,10,0.326,0.758,0.926
-Wandering Albatross,South Georgia (Islas Georgias del Sur),1420,breeding pairs,0.5,10.5,0.67,0.873,0.926
-Wandering Albatross,Crozet,1858,breeding pairs,0.5,10,0.736,0.825,0.931
-Wandering Albatross,Kerguelen,1187,breeding pairs,0.5,10,0.736,0.825,0.931
-Westland Petrel,New Zealand,4000,breeding pairs,0.5,10,0.62,0.638,0.965
-White-capped Albatross,Auckland Islands,97089,breeding pairs,1,7,0.575,0.951,0.951
-White-chinned Petrel,South Georgia (Islas Georgias del Sur),773150,breeding pairs,1,6,0.444,0.923,0.895
-White-chinned Petrel,Antipodes Islands,58725,breeding pairs,1,6,0.514,0.923,0.895
+TaxonOrder,CommonName,IslandGroup,PopEstimate,PopUnits,AnnualJuveSurvProb,AnnualAdultSurvProb,AorB,BreedingFrequency,BreedingSuccess,AgeFirstBreeding
+7,Amsterdam Albatross,Amsterdam and St Paul,51,breeding pairs,0.936,0.971,B,0.6,0.677,9.39
+5,Antipodean Albatross,Antipodes Islands,3945,breeding pairs,0.894,0.918,B,0.489,0.6,12
+6,Antipodean Albatross,Auckland Islands,5817,breeding pairs,0.88,0.889,B,0.536,0.427,12.4
+20,Atlantic Yellow-nosed Albatross,Gough,5300,breeding pairs,0.836,0.92,A,0.655,0.63,10.5
+32,Black Petrel,New Zealand (Great Barrier Island),2427,breeding pairs,0.792,0.903,A,0.8,0.735,6.6
+15,Black-browed Albatross,Falkland Islands (Islas Malvinas),399416,breeding pairs,0.862379714,0.942,A,0.787,0.62,7.5
+18,Black-browed Albatross,South Georgia (Islas Georgias del Sur),74296,breeding pairs,0.82,0.875,A,0.586,0.3,12.13
+17,Black-browed Albatross,Kerguelen,3215,breeding pairs,0.843,0.91,A,0.818,0.763,9.7
+16,Black-browed Albatross,Islas Diego Ramirez,55000,breeding pairs,0.862379714,0.942,A,0.787,0.75,7.5
+12,Buller's Albatross,The Snares,8704,breeding pairs,0.91,0.95,A,0.8,0.727,12
+11,Chatham Albatross,Chatham Island,5245,breeding pairs,0.828,0.887,A,0.773,0.463,8
+34,Grey Petrel,Antipodes Islands,53000,breeding pairs,0.819108156,0.94,A,0.81,0.735,7
+36,Grey Petrel,Gough,15000,breeding pairs,0.819108156,0.94,A,0.81,0.735,7
+35,Grey Petrel,Prince Edward Islands,5000,breeding pairs,0.839317245,0.94,A,0.81,0.735,7
+14,Grey-headed Albatross,South Georgia (Islas Georgias del Sur),47674,breeding pairs,0.912,0.952,B,0.368,0.365,14.22
+13,Grey-headed Albatross,Prince Edward Islands,9500,breeding pairs,0.883,0.949,B,0.601,0.427,12
+19,Indian Yellow-nosed Albatross,Amsterdam and St Paul,22000,breeding pairs,0.794,0.902,A,0.655,0.159,9
+23,Light-mantled Albatross,Prince Edward Islands,657,breeding pairs,0.876,0.959,B,0.597,0.352,11
+26,Northern Giant Petrel,Prince Edward Islands,750,breeding pairs,0.794672711,0.89,A,0.73,0.68,10
+27,Northern Giant Petrel,South Georgia (Islas Georgias del Sur),4310,breeding pairs,0.812530525,0.91,A,0.73,0.573,10
+8,Northern Royal Albatross,Chatham Island,5800,breeding pairs,0.876,0.96,B,0.581,0.427,9
+10,Salvin's Albatross,The Snares,1195,breeding pairs,0.837,0.967,A,0.859,0.467,9
+21,Sooty Albatross,Prince Edward Islands,2493,breeding pairs,0.842239211,0.92,B,0.6,0.56,11.8
+22,Sooty Albatross,Tristan da Cunha,8458,breeding pairs,0.842239211,0.92,B,0.6,0.48,11.8
+24,Southern Giant Petrel,Prince Edward Islands,2800,breeding pairs,0.794672711,0.89,A,0.73,0.55,8
+25,Southern Giant Petrel,South Georgia (Islas Georgias del Sur),5500,breeding pairs,0.821459431,0.92,A,0.73,0.449,8
+31,Spectacled Petrel,Tristan da Cunha,30000,breeding pairs,0.84,0.97,A,0.79,0.6,5
+4,Tristan Albatross,Gough,1650,breeding pairs,0.836,0.91,B,0.55,0.283,10.1
+3,Wandering Albatross,South Georgia (Islas Georgias del Sur),1858,breeding pairs,0.819,0.879,B,0.365,0.808,9.8
+1,Wandering Albatross,Crozet,1815,breeding pairs,0.88875,0.9445,B,0.5658,0.73,10
+2,Wandering Albatross,Kerguelen,1184,breeding pairs,0.889,0.9445,B,0.5658,0.73,10
+33,Westland Petrel,New Zealand,4000,breeding pairs,0.875,0.9355,B,0.46,0.607,7.7
+9,White-capped Albatross,Auckland Islands,97089,breeding pairs,0.834,0.96,A,0.68,0.63,9
+30,White-chinned Petrel,South Georgia (Islas Georgias del Sur),773150,breeding pairs,0.82,0.875,A,0.75,0.444,6
+29,White-chinned Petrel,Prince Edward Islands,36000,breeding pairs,0.7,0.895,A,0.75,0.59,6.1
+28,White-chinned Petrel,Antipodes Islands,40000,breeding pairs,0.819108156,0.94,A,0.75,0.3,6.5
