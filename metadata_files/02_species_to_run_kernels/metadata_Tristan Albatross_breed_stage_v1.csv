@@ -1,15 +1,16 @@
-common_name,site_name,colony_name,device_comb,age,breed_stage_v1,n_birds
-Tristan Albatross,Gough,Gough Island,GPSorPTT,adult,brood-guard,9
-Tristan Albatross,Gough,Gough Island,GPSorPTT,adult,incubation,35
-Tristan Albatross,Gough,Gough Island,GLS,adult,incubation,9
-Tristan Albatross,Gough,Gough Island,GLS,adult,non-breeding_Q1,26
-Tristan Albatross,Gough,Gough Island,GPSorPTT,juvenile,non-breeding_Q1,4
-Tristan Albatross,Gough,Gough Island,GLS,adult,non-breeding_Q2,25
-Tristan Albatross,Gough,Gough Island,GPSorPTT,juvenile,non-breeding_Q2,2
-Tristan Albatross,Gough,Gough Island,GLS,adult,non-breeding_Q3,24
-Tristan Albatross,Gough,Gough Island,GPSorPTT,juvenile,non-breeding_Q3,2
-Tristan Albatross,Gough,Gough Island,GLS,adult,non-breeding_Q4,24
-Tristan Albatross,Gough,Gough Island,GPSorPTT,juvenile,non-breeding_Q4,3
-Tristan Albatross,Gough,Gough Island,GPSorPTT,adult,post-guard,12
-Tristan Albatross,Gough,Gough Island,GLS,adult,post-guard,14
-Tristan Albatross,Gough,Gough Island,GLS,adult,unknown,2
+"common_name","site_name","colony_name","device_comb","age","breed_stage_v1","n_birds"
+"Tristan Albatross","Gough","Gough Island","GPSorPTT","adult","brood-guard",66
+"Tristan Albatross","Gough","Gough Island","GPSorPTT","adult","chick-rearing",1
+"Tristan Albatross","Gough","Gough Island","GLS","adult","incubation",7
+"Tristan Albatross","Gough","Gough Island","GPSorPTT","adult","incubation",35
+"Tristan Albatross","Gough","Gough Island","GLS","adult","non-breeding_Q1",26
+"Tristan Albatross","Gough","Gough Island","GPSorPTT","juvenile","non-breeding_Q1",16
+"Tristan Albatross","Gough","Gough Island","GLS","adult","non-breeding_Q2",25
+"Tristan Albatross","Gough","Gough Island","GPSorPTT","juvenile","non-breeding_Q2",8
+"Tristan Albatross","Gough","Gough Island","GLS","adult","non-breeding_Q3",23
+"Tristan Albatross","Gough","Gough Island","GPSorPTT","juvenile","non-breeding_Q3",4
+"Tristan Albatross","Gough","Gough Island","GLS","adult","non-breeding_Q4",24
+"Tristan Albatross","Gough","Gough Island","GPSorPTT","juvenile","non-breeding_Q4",13
+"Tristan Albatross","Gough","Gough Island","GLS","adult","post-guard",14
+"Tristan Albatross","Gough","Gough Island","GPSorPTT","adult","post-guard",12
+"Tristan Albatross","Gough","Gough Island","GLS","adult","unknown",2
