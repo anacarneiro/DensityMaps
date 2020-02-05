@@ -1,6 +1,8 @@
 # DensityMaps
 
-### Mapping the global distribution of seabird populations: a framework for integrating tracking, demographic and phenological datasets.
+### A framework for mapping the distribution of seabirds by integrating tracking, demography and phenology
+
+Archive of analysis code used in Carneiro, A.P.B. *et al.* (2020) **A framework for mapping the distribution of seabirds by integrating tracking, demography and phenology**, *Journal of Applied Ecology*, which is available [here](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.13568).
 
 This is a step-by-step guide to do the analyses presented in the manuscript. An example of tracking data is available for the Tristan Albatross. This example dataset can only be used to run the scripts below and cannot be used for dissemination activities (e.g. publication) or any other purpose without the approval of data owners. All datasets are available for request in the Seabird Tracking Database (http://seabirdtracking.org/). The scripts were developed assuming multiple species (i.e you can have multiple species files to run your analysis). Metadata on phenology and demography models are available for all species used in the manuscript. Example outputs from each step of the methods are available in the scripts_results folder (warning: the raster files are very large).
 
